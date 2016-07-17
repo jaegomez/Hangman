@@ -1,0 +1,35 @@
+body {
+	background-color: lightblue;
+}
+
+h1{
+	text-align: center;
+}
+h3{
+	text-align:center;
+}
+h4{
+	text-align: center;
+}
+#start{
+	text-align: center;
+	font-family: Arial;
+	border-color: black;
+	border-width: 10px;
+}
+.row-board {
+	text-align: center;
+	font-family: Arial;
+	border-color: black;
+	border-width: 10px;
+}
+
+#wins {
+	color: red;
+}
+#losses {
+	color: blue;
+}
+.image{
+	opacity: 100%;
+}
